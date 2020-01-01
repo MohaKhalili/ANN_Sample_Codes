@@ -2,15 +2,7 @@
 
 A neural network trained with backpropagation is attempting to use input to predict output.
 
-Inputs--------Output
-
-0---0---1-------0
-
-1---1---1-------1
-
-1---0---1-------1
-
-0---1---1-------0
+![alt text](./input_output_image.JPG)
 
 Consider trying to predict the output column given the three input columns. 
 
